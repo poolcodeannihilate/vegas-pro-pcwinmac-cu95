@@ -1,4 +1,4 @@
-# 
+# Free Vegas Pro filters for Mac OS | Custom Vegas Pro filters for PC Windows. Featuring multi-track-editing and noise-suppression — optimized for maximum performance on every platform.
 
 
 
